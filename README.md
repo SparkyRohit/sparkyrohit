@@ -1,53 +1,52 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Enthusiastic about crafting web experiences and solving problems through code</h3>
+<h1 align="center">Greetings! 👋 I'm Rohit Kumar</h1>
+<h3 align="center">Passionate Full-stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkyrohit&label=Profile%20views&color=0e75b6&style=flat" alt="sparkyrohit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarrohitdev&label=Profile%20views&color=0e75b6&style=flat" alt="kumarrohitdev" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
-
-- 🌱 I’m currently learning **DSA & React Native**
-
-- 💬 Ask me about **Next.js**
-
-- 📫 How to reach me: **rohitsharma001914@gmail.com**
+- 🔭 Currently spearheading the development of an **E-Commerce Website**
+- 🌱 Actively enhancing skills in **DSA & React Native**
+- 💬 Ask me about anything related to **Next.js**
+- 📫 Reach me at **rohitsharma001914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/rohitkumar6435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkumar6435" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/rohitkumar001914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkumar001914" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjmgoexfdwk9uexaqrd5yma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjmgoexfdwk9uexaqrd5yma" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rohitsharma001914/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitsharma001914/" height="30" width="40" /></a>
+  <a href="https://twitter.com/kumarrohitdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkumar6435" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kumarrohitdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarrohitdev" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/your_youtube_channel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="your_youtube_channel" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/gff(kumarrohitdev/profile)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gff(kumarrohitdev/profile)" height="30" width="40" /></a>
 </p>
 
-<details>
-  <summary><strong>Frontend Technologies:</strong></summary>
-  <p align="left">
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  </p>
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- Add more icons for other languages -->
+</p>
 
-<details>
-  <summary><strong>Backend Technologies:</strong></summary>
-  <p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  </p>
-</details>
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <!-- Add more icons for other frontend technologies -->
+</p>
 
-<details>
-  <summary><strong>Other Technologies:</strong></summary>
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  </p>
-</details>
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <!-- Add more icons for other backend technologies -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparkyrohit&" alt="sparkyrohit" /></p>
+<h3 align="left">DevOps:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <!-- Add more icons for other DevOps technologies -->
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarrohitdev&" alt="kumarrohitdev" /></p>
